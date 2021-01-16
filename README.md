@@ -1,4 +1,5 @@
 ## Datacamp Data Science Projects
+These are my guided projects which were completed in the [Data Science Track](https://www.datacamp.com/tracks/data-scientist-with-python) on [datacamp.com](https://www.datacamp.com).
 <p align="center"> 
 <img src="https://www.datacamp.com/datacamp.png?v=20102020" width="500">
 </p>
